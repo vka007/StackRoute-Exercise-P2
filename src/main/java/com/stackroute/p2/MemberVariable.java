@@ -4,20 +4,24 @@ public class MemberVariable {
 
    Member ob = new Member();
 
-    public void Init(String Name, int Age, double Salary)
+    public void Init(String Name, int Age, double Salary)               //variable instantiate method
     {
-        //Member ob = new Member();
         ob.Name = Name;
         ob.Age = Age;
         ob.Salary = Salary;
     }
 
 
-    public String Display()
+    public String Display()                                             //method body
     {
-        //return "Member Name: \n" + ob.Name+"Member Age: \n"+ob.Age+"Member Salary: "+ob.Salary;
 
-        return "Member Name: " + ob.Name+" Member Age: "+ob.Age+" Member Salary: "+ob.Salary;
-
+        if(ob.Age<0 || ob.Salary<0 )                                //check valid or invalid input
+        {
+            return "Wrong input";
+        }
+        else
+        {
+            return "Member Name: " + ob.Name + " Member Age: " + ob.Age + " Member Salary: " + ob.Salary;
+        }
     }
 }

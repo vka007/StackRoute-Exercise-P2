@@ -37,4 +37,13 @@ public class MemberVariableTest {
 
         assertEquals("Member Name: Raj Member Age: 23 Member Salary: 50000.0",Result);
     }
+
+    @Test
+    public void checkInvalidInput()
+    {
+        ob.Init("Akash",-23,-56478);
+        String Result = ob.Display();
+
+        assertEquals("Wrong input",Result);
+    }
 }

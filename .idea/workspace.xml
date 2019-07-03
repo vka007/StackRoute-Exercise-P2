@@ -4,18 +4,13 @@
     <list default="true" id="37935922-a0e7-4086-a025-4dd65460b99e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/EvenNumTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/MemberVariable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/Pallindrome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/PowerOfFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/ReadContent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/StudentGrades.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/EvenNumTestTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/FactorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberVariableTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/PallindromeTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/PowerOfFourTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/StudentGradesTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../assignmentp1/.idea/libraries/hamcrest_all_1_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../assignmentp1/.idea/misc.xml" afterDir="false" />
@@ -32,14 +27,31 @@
       <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/ScanNumberTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/SortAndSumTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../assignmentp1/src/main/test/com/stackroute/p1/VowelConsonantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/MatrixAddition.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/VowelRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/chessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/consecutiveNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/dateDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/MatrixAdditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/negativeArrayExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/java/com/stackroute/p3/tryCatchFinally.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/StudentMarksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/VowelRemoveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/chessBoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/consecutiveNumberTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exercise3/src/main/test/com/stackroute/p3/dateDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise4/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../src/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/MemberVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/MemberVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/ReadContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p2/ReadContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberVariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberVariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../html5-boilerplate/css/first.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../html5-boilerplate/css/first.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../html5-boilerplate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../html5-boilerplate/index.html" afterDir="false" />
     </list>
@@ -56,10 +68,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/MemberVariable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberVariableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="594">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -67,52 +88,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/ReadContent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="418">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/EvenNumTestTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/FactorialTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="128">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -131,7 +130,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,17 +143,17 @@
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/CrossClassInitTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/Member.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/MemberVariable.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberVariableTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/file.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/EvenNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/EvenNumTestTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/StudentGrades.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/StudentGradesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/ReadContent.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/FactorialTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberVariableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/MemberVariable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/p2/ReadContent.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java" />
       </list>
     </option>
   </component>
@@ -181,6 +180,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,8 +272,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,6 +291,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -313,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReadContentTest.readFileFromDirectory">
+  <component name="RunManager" selected="JUnit.MemberVariableTest.checkInvalidInput">
     <configuration name="FactorialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="assignment2" />
       <extension name="coverage">
@@ -361,7 +361,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadContentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MemberVariableTest.checkInvalidInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="assignment2" />
       <extension name="coverage">
         <pattern>
@@ -370,8 +370,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.p2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.p2.ReadContentTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.p2.MemberVariableTest" />
+      <option name="METHOD_NAME" value="checkInvalidInput" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -394,11 +395,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MemberVariableTest.checkInvalidInput" />
         <item itemvalue="JUnit.ReadContentTest.readFileFromDirectory" />
         <item itemvalue="JUnit.FactorialTest" />
         <item itemvalue="JUnit.FactorialTest.factorialWithintandLongTest2" />
         <item itemvalue="JUnit.FactorialTest.factorialWithintandLongTest1" />
-        <item itemvalue="JUnit.ReadContentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -415,19 +416,12 @@
       <workItem from="1561638258676" duration="14193000" />
       <workItem from="1561693049325" duration="8276000" />
       <workItem from="1561906409844" duration="34000" />
+      <workItem from="1561958135149" duration="624000" />
+      <workItem from="1561977548135" duration="2883000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReadContentTest_readFileAndConvertContentToUpperCase - 2019.06.28 at 10h 16m 07s.xml">
-      <configuration name="ReadContentTest.readFileAndConvertContentToUpperCase" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadContentTest_readFileFromDirectory - 2019.06.28 at 11h 40m 01s.xml">
-      <configuration name="ReadContentTest.readFileFromDirectory" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadContentTest - 2019.06.28 at 11h 40m 41s.xml">
-      <configuration name="ReadContentTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReadContentTest - 2019.06.28 at 11h 40m 55s.xml">
       <configuration name="ReadContentTest" configurationId="JUnit" />
     </history-entry>
@@ -449,14 +443,24 @@
     <history-entry file="FactorialTest - 2019.06.28 at 12h 13m 53s.xml">
       <configuration name="FactorialTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReadContentTest_readFileFromDirectory - 2019.07.01 at 10h 46m 00s.xml">
+      <configuration name="ReadContentTest.readFileFromDirectory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberVariableTest_checkInvalidInput - 2019.07.01 at 16h 19m 38s.xml">
+      <configuration name="MemberVariableTest.checkInvalidInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberVariableTest_checkInvalidInput - 2019.07.01 at 16h 19m 43s.xml">
+      <configuration name="MemberVariableTest.checkInvalidInput" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22503000" />
+    <option name="totallyTimeSpent" value="26010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21786633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -524,20 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/MemberVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/EvenNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -560,30 +550,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberVariableTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state>
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/ReadContent.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/FactorialTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -594,17 +571,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/MemberVariable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/FactorialTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/MemberVariableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="594">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/ReadContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/p2/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/p2/ReadContentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

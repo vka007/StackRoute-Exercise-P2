@@ -6,22 +6,19 @@ import java.io.IOException;
 
 public class ReadContent {
 
-    public String readFile(String filePath) throws IOException {
-        FileReader fr = new FileReader(filePath);
+    public String readFile(String filePath) throws IOException {           //main method
+        FileReader fr = new FileReader(filePath);                           //file reader obj create
 
         int i;
         String out = "";
 
-        while ((i = fr.read()) != -1)
-            out = out + ((char) i);
+        while ((i = fr.read()) != -1)                               //traverse to end of the file
+            out = out + ((char) i);                                    //append the content in result string
 
         fr.close();
 
-        int length = out.length();
+        int length = out.length();                                      //calculate the length of the file/string
 
-      //  out = out + "The length is " + length;
-        //System.out.println(out.toUpperCase());
-
-        return out.toUpperCase();
+        return out.toUpperCase();                                      //return after converting to upper case
     }
 }

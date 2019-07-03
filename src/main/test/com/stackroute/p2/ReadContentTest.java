@@ -27,6 +27,5 @@ public class ReadContentTest {
 
         assertEquals("HI THIS IS VINEET KUMAR AGRAWAL.",result);
 
-
     }
 }
